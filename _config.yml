@@ -23,13 +23,13 @@ repository               : "Tengyue-WANG/Tengyue-WANG.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Tengyue WANG"
+  pronouns         : "he/his"# example: "she/her"  
+  bio              : "Pursue Useful Chemistry"
+  location         : "Hangzhou, China"
+  employer         : "Westlake University"
+  uri              : "https://www.westlake.edu.cn/"
+  email            : "wangty.faraway@gmail.com" 
 
   # Academic websites
   academia         : # URL
