@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
-
 I am Tengyue Wang, currently working as a research assistant at the [Shang Lab](https://www.westlake.edu.cn/faculty/Rui-Shang.shtml) at [Westlake University](https://www.westlake.edu.cn/).
 
 I received my Master's degree in Chemistry in 2025 from the [Zhang Lab](https://www.x-mol.com/groups/zhangkaka) at the [Shanghai Institute of Organic Chemistry](http://www.sioc.ac.cn/).
