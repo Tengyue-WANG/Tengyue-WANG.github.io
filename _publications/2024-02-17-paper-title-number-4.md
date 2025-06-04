@@ -1,7 +1,7 @@
 ---
 title: "Polymer-Based Room-Temperature Phosphorescence Materials Exhibiting Emission Lifetimes up to 4.6 s under Ambient Conditions"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
