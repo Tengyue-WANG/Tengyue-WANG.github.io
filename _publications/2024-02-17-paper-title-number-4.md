@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "Polymer-Based Room-Temperature Phosphorescence Materials Exhibiting Emission Lifetimes up to 4.6 s under Ambient Conditions"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
