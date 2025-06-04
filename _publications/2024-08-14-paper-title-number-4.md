@@ -3,7 +3,7 @@ title: "Polymer-Based Room-Temperature Phosphorescence Materials Exhibiting Emis
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This paper is about organic room-temperature phosphorescence.'
 date: 2024-08-14
 venue: 'ChemPhysChem'
 paperurl: 'http://tengyue-wang.github.io/files/paper4.pdf'
