@@ -13,7 +13,7 @@ title                    : "Tengyue WANG"
 title_separator          : "-"
 name                     : &name "Tengyue WANG"
 description              : &description "personal description"
-url                      : https://tengyue-wang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://tengyue-wang.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Tengyue-WANG/Tengyue-WANG.github.io"
 
@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Tengyue WANG"
-  pronouns         : "he/his"# example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Pursue Useful Chemistry"
   location         : "Hangzhou, China"
   employer         : "Westlake University"
-  uri              : "https://www.westlake.edu.cn/"
+  uri              : "https://tengyue-wang.github.io/"
   email            : "wangty.faraway@gmail.com" 
 
   # Academic websites
