@@ -22,7 +22,7 @@ repository               : "Tengyue-WANG/Tengyue-WANG.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "77c.png"
+  avatar           : "77c_compressed.png"
   name             : "Tengyue WANG"
   pronouns         : # example: "she/her"  
   bio              : "Pursue Useful Chemistry"
