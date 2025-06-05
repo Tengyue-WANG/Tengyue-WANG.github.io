@@ -1,5 +1,5 @@
 ---
-title: "Room-temperature phosphorescent transparent wood"
+title: "Organic Long Persistent Luminescence Wood-Based Materials"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-02-23-paper-title-number-8
