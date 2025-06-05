@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-#* Doctoral student in chemistry, Westlake University, 2026 (expected)
+
 * M.S. in Materials and Chemical Engineering,  Shanghai Institute of Organic Chemistry, 2025
 * B.S. in Polymer materials and Engineering, Yanshan University, 2022
 
