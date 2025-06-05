@@ -1,5 +1,5 @@
 ---
-title: "Room-temperature phosphorescent transparent wood"
+title: "Achieving High-Performance Organic Long Persistent Luminescence Materials via Manipulation of Radical Cation Stability"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-02-22-paper-title-number-7
